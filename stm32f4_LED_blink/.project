@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>STM32F4_LED_BLINK</name>
+	<name>stm32f4_LED_blink</name>
 	<comment></comment>
 	<projects>
 	</projects>
